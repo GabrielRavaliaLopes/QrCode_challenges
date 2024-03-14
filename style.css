@@ -55,28 +55,6 @@ body{
 
 /*Responsive mobile*/
 
-@media (max-width: 425px){
-    body,
-    html{
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    .retangulo{
-        margin-top: 20px;
-        margin-bottom: 0;
-        border-radius: 20px;
-    }
-
-    .texto,
-    .texto h2{
-        margin-top: 10px;
-    }
-
-}
-
 @media (max-width: 500px){
     body,
     html{
