@@ -55,7 +55,7 @@ body{
 
 /*Responsive mobile*/
 
-@media (max-width: 500px){
+@media (max-width: 425px){
     body,
     html{
         width: 100%;
